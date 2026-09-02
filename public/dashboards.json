@@ -80,10 +80,10 @@
         "LTI": false
     },
     {
-        "name": "Dashboard  (9)",
+        "name": "Gemeente Helmond",
         "url": "https://insights.learningpool.com/contexts/2083/shared/",
         "key": "240f4522-296e-4abf-b370-5240e520dfc0",
-        "team": "",
+        "team": "AW",
         "token": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTc0Mjc2ODZ9.wQUpiBgbJwVPqpmIXE-h73anBHczkM9-VUFbrm0nEGg",
         "LTI": false
     },
@@ -192,10 +192,10 @@
         "LTI": true
     },
     {
-        "name": "Dashboard  (23)",
+        "name": "Gemeente Nijmegen",
         "url": "https://insights.learningpool.com/contexts/2071/shared/",
         "key": "c163a6cb-a958-4980-8d98-da4c684303a3",
-        "team": "",
+        "team": "AW",
         "token": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTc0MjYzNzF9.IsysLhrhGEjFc21ezrGQK8Tpuicq-XpdIQX-BJNlBe8",
         "LTI": false
     },
